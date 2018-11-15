@@ -17,4 +17,5 @@ function ternaryCheckCity(someCity){
 
 function switchOnCharmFromTip(someTip){
   if (someTip == 'generous')
+    result = 
 }
