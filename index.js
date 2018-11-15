@@ -11,10 +11,10 @@ function scuberGreetingForFeet(someValue) {
   return result
 }
 
-function ternaryCheckCity(){
+function ternaryCheckCity(someCity){
   if (someCity)
 }
 
 function switchOnCharmFromTip(){
-  
+
 }
